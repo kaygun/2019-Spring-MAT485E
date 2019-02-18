@@ -1,0 +1,4 @@
+graph K3 {
+  node[shape=circle];
+  1 -- 2 -- 3 -- 1;
+}
